@@ -42,8 +42,8 @@ A collection of Python functions and scripts designed for automating web interac
 
 ### Entering Text
 
-- **`enter_username_text(driver, username="jeapapan")`**: Enters the given username into the username input field.
-- **`enter_password_text(driver, password="gt5hy6JU7.5")`**: Enters the given password into the password input field.
+- **`enter_username_text(driver, username="")`**: Enters the given username into the username input field.
+- **`enter_password_text(driver, password="")`**: Enters the given password into the password input field.
 
 ### Interacting with Checkboxes and Buttons
 
